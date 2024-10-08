@@ -1,0 +1,28 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editor files
+.DS_Store
+.editorconfig
+.eslintcache
+.idea
+.vscode/
+*.suo
+*.ntvs*
+
+# Logs
+logs/
+*.log
+
+# Test results
+coverage/
+
+# Compiled assets
+/build
+/dist
+
+# Temporary files
+*.tmp
+*.swp
